@@ -1,5 +1,7 @@
 # 📝Mc's Portfolio
 Welcome to my professional portfolio showcasing my skills and projects ive worked on before.
+
+_(this portfolio page is still being edited and updated daily as im trying to find/recover my outputs from past projects)_
 ***
 
 ## 📚Table of Contents
