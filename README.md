@@ -4,7 +4,7 @@ Welcome to my professional portfolio showcasing my skills and projects ive worke
 
 ## 📚Table of Contents
 - [SQL](#sql)
-- Python
+- [Python](#python)
 - Tableau
 
 # SQL
