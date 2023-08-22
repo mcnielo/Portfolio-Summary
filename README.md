@@ -19,6 +19,8 @@ Welcome to my professional portfolio showcasing my skills and projects ive worke
 |---|---|---|---|
 | 👩🏻‍💻 [Harvard CS50](https://github.com/mcnielo/Hardvard-CS50) | Programming | This repository contains files I used from taking [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) course a few years back | - | 
 | 📺 [TMDb Movie Analysis](https://github.com/mcnielo/Udacity-Data-Analyst/blob/main/TMDb%20Movie%20Analysis/TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I dug into a dataset of over 10,000 TMDb movies to find out: Which actors bring in the big bucks? Does more money pumped into a movie mean more profit? And who's the top director with the most cash in the bank from their film? | pandas, matplotlib |   
+| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/mcnielo/Google-Data-Analytics-Capstone-Project/blob/main/bellabeat-data-analysis.ipynb) | EDA | Uncovered user trends in FitBit app usage for health tracking, weekly engagement, and possible connections between hours, steps, and calories. | pandas, matplotlib, seaborn |
+
 
 
 # Tableau
