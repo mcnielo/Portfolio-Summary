@@ -7,7 +7,7 @@ _(this portfolio page is still being edited and updated daily as im trying to fi
 ## 📚Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- Tableau
+- [Tableau](#tableau)
 
 # SQL
 | Project Link | Area of Analysis | Project Description | 
