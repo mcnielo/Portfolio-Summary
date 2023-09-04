@@ -25,5 +25,8 @@ _(this portfolio page is still being edited and updated daily as im trying to fi
 🛍 [Super Store Analysis](https://github.com/mcnielo/Super-Store-Analysis/blob/main/Super-Store-Analysis/Super_Store_Analysis.ipynb) | EDA | An examination of sales data was conducted to identify the product categories generating the highest revenue and profit, as well as the most significant customer segments. | pandas, matplotlib |
 
 
-
 # Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| 🎞️ [Netflix Dashboard Challenge](https://github.com/mcnielo/Netflix-Dashboard/tree/main/Netflix%20Dashboard) | Explore a Netflix dataset dashboard with interactive movie and TV series filters, showcasing release dates, genres, durations, and descriptions. It also provides insights into top-rated titles, popular genres, country-specific releases, content distribution, and annual movie release trends. | [Dashboard](https://public.tableau.com/app/profile/mcandrew.nielo/viz/NetflixDashboard_16938373428080/Netflix) |
